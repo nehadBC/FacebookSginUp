@@ -19,7 +19,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('https"//facebook.com')
+WebUI.openBrowser('https://www.facebook.com')
 
 WebUI.setText(findTestObject('Page_Facebook  log in or sign up/input_firstname'), 'nada')
 
