@@ -21,7 +21,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('https://www.facebook.com')
 
-WebUI.setText(findTestObject('Page_Facebook  log in or sign up/input_firstname'), 'nada')
+WebUI.setText(findTestObject('Page_Facebook  log in or sign up/input_firstname'), 'nehaaaad')
 
-WebUI.setText(findTestObject('Page_Facebook  log in or sign up/input_lastname'), 'is fat')
+WebUI.setText(findTestObject('Page_Facebook  log in or sign up/input_lastname'), 'is fat and doesnt care')
 
